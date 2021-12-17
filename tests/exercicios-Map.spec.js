@@ -1,4 +1,4 @@
-const { transformarString, nameStatusValor, novoFormato } = require('../maps/exercicios-Map');
+const { transformarString, nameStatusValor, novoFormato } = require('../gabarito/Respostas');
 
 describe('4 - Teste da Função transformarString', () => {
   test('Teste se transformarString é uma função', () => {

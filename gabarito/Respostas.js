@@ -62,3 +62,15 @@ function fichaPokedex() {
     return a
   }, {}))
 }
+
+module.exports = {
+  maisFortes,
+  doisTipos,
+  procurarTipo,
+  transformarString,
+  nameStatusValor,
+  novoFormato,
+  statusMaisForte,
+  procurarTipoReduce,
+  fichaPokedex,
+}

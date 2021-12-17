@@ -1,4 +1,4 @@
-const { statusMaisForte, procurarTipoReduce, fichaPokedex } = require('../reduce/exercicios-Reduce');
+const { statusMaisForte, procurarTipoReduce, fichaPokedex } = require('../gabarito/Respostas');
 
 describe('7 - Teste da Função statusMaisForte', () => {
   test('Teste se statusMaisForte é uma função', () => {

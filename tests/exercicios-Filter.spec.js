@@ -1,4 +1,4 @@
-const { maisFortes, doisTipos, procurarTipo } = require('../filter/exercicios-Filter');
+const { maisFortes, doisTipos, procurarTipo } = require('../gabarito/Respostas');
 
 describe('1 - Teste da Função procurarTipo', () => {
   test('Teste se procurarTipo é uma função', () => {
